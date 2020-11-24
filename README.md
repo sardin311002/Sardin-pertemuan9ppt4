@@ -1,4 +1,4 @@
-![poto](ss/logo.png
+![poto](ss/logo.png)
 
 Nama  : Sardin <br>
 NIM   : 312010135 <br>
